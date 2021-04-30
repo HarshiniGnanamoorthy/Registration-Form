@@ -1,0 +1,93 @@
+body {  
+
+  background: #414141; 
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	color:	  #ff6a5c;
+}
+	
+ form {  
+
+   width: 450px;  
+
+   margin: 20px auto;
+
+   color: #ff6a5c ;
+      
+  	font-size:22px;
+	
+	padding:10px;
+ }
+
+input{
+	
+   padding: 10px ;  
+   
+   font-size: inherit;
+   
+}
+
+input[type="text"]{
+	
+	display:block;
+	
+	margin-bottom:25px;
+	
+	width:100%;
+	
+	border:2px; 
+	
+	font-size:225 px;
+	
+}
+input[type="radio"]{
+	margin:0 8px 25px 18px ;
+}
+
+input[type="radio"]:first-child {
+	margin-left:0 ;
+}
+
+button {  
+
+   display: inline-block; 
+
+   padding: 12px 24px;  
+
+   background: #ff6a5c;  
+
+   font-weight: bold;  
+
+  color: #262626;  
+
+   border: none;  outline: none;  
+
+   border-radius: 30px;  
+
+   cursor: pointer;  
+
+   transition: ease .3s;
+
+font-size:20px;   
+
+}  
+
+ button:hover {  
+
+   background: #ff6a5c;  
+
+   color:#fffff; 
+
+}
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
